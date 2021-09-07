@@ -1,0 +1,22 @@
+
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+       <item name="colorPrimary">#f89663</item>
+       <item name="colorPrimaryDark">#f89663</item>
+       <item name="colorAccent">#f89663</item>
+
+    </style>
+
+    <style name="AppTheme_Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#f89663</item>
+        <item name="colorPrimaryDark">#f89663</item>
+        <item name="colorAccent">#f89663</item>
+
+    </style>
+    <style name="AppTheme_Login_Page" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#f89663</item>
+        <item name="colorPrimaryDark">#f89663</item>
+        <item name="colorAccent">#f89663</item>
+
+    </style>
+</resources>
